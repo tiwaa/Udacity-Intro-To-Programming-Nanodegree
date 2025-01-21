@@ -1,4 +1,4 @@
-# 🌠Udacity-Intro-To Programming-Nanodegree
+# 🌠Udacity Intro To Programming Nanodegree
 
 Program Scope: HTML, CSS, basic Python and basic JavaScript
 
