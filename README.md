@@ -18,6 +18,5 @@ Take a tour through the [course](https://www.udacity.com/course/intro-to-program
 
 __________________________________________________________________________________________________________________
 
-<div>
-  <img src="![Emoji_project](https://github.com/user-attachments/assets/37d29266-558b-48d6-8591-5012621cfd67)" width="10%", height="20%">
-</div>
+<div> <h1><img src="https://github.com/user-attachments/assets/37d29266-558b-48d6-8591-5012621cfd67" width="4%", height="4%"> Projects</h1></div> 
+
