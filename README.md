@@ -18,4 +18,4 @@ Take a tour through the [course](https://www.udacity.com/course/intro-to-program
 
 __________________________________________________________________________________________________________________
 
-# 
+<kbd>![Emoji_project](https://github.com/user-attachments/assets/37d29266-558b-48d6-8591-5012621cfd67)</kbd>
