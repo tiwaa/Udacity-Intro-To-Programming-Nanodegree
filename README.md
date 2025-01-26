@@ -20,3 +20,4 @@ ________________________________________________________________________________
 
 <div> <h1><img src="https://github.com/user-attachments/assets/37d29266-558b-48d6-8591-5012621cfd67" width="4%", height="4%"> Projects</h1></div> 
 
+Click on the project title to view content! 😉
