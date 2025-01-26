@@ -28,4 +28,4 @@ In this project, I used HTML and CSS to recreate a webpage from a design prototy
 
 ___________________________________________________________________________________________________________________
 
-## 🐟[Project 2: ](https://github.com/tiwaa/Udacity-Intro-To-Programming-Nanodegree/blob/master/Animal%20Trading%20Card.zip) Adventure Game
+## 🎮[Project 2: ](https://github.com/tiwaa/Udacity-Intro-To-Programming-Nanodegree/blob/master/Adventure-Game-master.zip) Adventure Game
