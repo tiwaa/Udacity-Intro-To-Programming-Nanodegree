@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 Click on the project title to view content! 😉
 
-## 🐟[Project 1: ](https://github.com/tiwaa/Udacity-Intro-To-Programming-Nanodegree/blob/master/Animal%20Trading%20Card.zip) Animal Trading Cards
+## 🐟[Project 1: ](https://github.com/tiwaa/Udacity-Intro-To-Programming-Nanodegree/tree/master/Animal%20Trading%20Card) Animal Trading Cards
 
 In this project, I used HTML and CSS to recreate a webpage from a design prototype that is inspired by trading cards and features a fish I might recognize from a popular animated film.
 
