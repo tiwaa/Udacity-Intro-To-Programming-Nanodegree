@@ -34,4 +34,6 @@ I made a simpler version of an old-fashioned text-based adventure game using Pyt
 
 ____________________________________________________________________________________________________________________
 
-## 🎨[Project 3: ](https://github.com/tiwaa/Udacity-Intro-To-Programming-Nanodegree/blob/master/Adventure-Game-master.zip) Pixel Art Maker
+## 🎨[Project 3: ](https://github.com/tiwaa/Udacity-Intro-To-Programming-Nanodegree/blob/master/Pixel-Art-Maker-master.zip) Pixel Art Maker
+
+In this project, I used HTML and CSS to build a single web-page application. I also wrote a JavaScript code that lets the user create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece. 
