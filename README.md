@@ -31,3 +31,7 @@ ________________________________________________________________________________
 ## 🎮[Project 2: ](https://github.com/tiwaa/Udacity-Intro-To-Programming-Nanodegree/blob/master/Adventure-Game-master.zip) Adventure Game
 
 I made a simpler version of an old-fashioned text-based adventure game using Python. The game allows the users to make choices at the various stages and also includes random factors, so that its a little different each time.
+
+____________________________________________________________________________________________________________________
+
+## 🎨[Project 3: ](https://github.com/tiwaa/Udacity-Intro-To-Programming-Nanodegree/blob/master/Adventure-Game-master.zip) Pixel Art Maker
