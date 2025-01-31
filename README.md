@@ -28,7 +28,7 @@ In this project, I used HTML and CSS to recreate a webpage from a design prototy
 
 ___________________________________________________________________________________________________________________
 
-## 🎮[Project 2: ](https://github.com/tiwaa/Udacity-Intro-To-Programming-Nanodegree/blob/master/Adventure-Game-master.zip) Adventure Game
+## 🎮[Project 2: ](https://github.com/tiwaa/Udacity-Intro-To-Programming-Nanodegree/blob/master/Adventure%20Game.py) Adventure Game
 
 I made a simpler version of an old-fashioned text-based adventure game using Python. The game allows the users to make choices at the various stages and also includes random factors, so that its a little different each time.
 
