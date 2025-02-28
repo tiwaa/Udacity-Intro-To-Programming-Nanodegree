@@ -2,7 +2,7 @@
 
 Program Scope: HTML, CSS, basic Python and basic JavaScript
 
-Duration: May - September 2020
+Duration: May - September 20
 
 Find the **core tenets** of the course 👇 below:
 
