@@ -1,6 +1,6 @@
 # 🌠Udacity Intro To Programming Nanodegree
 
-Program Scope: HTML, CSS, basic Python and basic JavaScript
+Program Scope: HTML, CSS, basic Python and basic 
 
 Duration: May - September 2020
 
