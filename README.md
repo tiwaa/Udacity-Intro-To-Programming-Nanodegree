@@ -6,7 +6,7 @@ Duration: May - September 2020
 
 Find the **core tenets** of the course 👇 below: 
 
-* Learn how to create a working HTML page as well as add aesthetics using
+* Learn how to create a working HTML page as well as add aesthetics using CSS.
 
 * Learn versatile programming languge like Python.
 
